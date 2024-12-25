@@ -1,0 +1,24 @@
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        #foo {
+            height: 200px;
+            width: 400px;
+        }
+        .wrap {
+            position: absolute;
+            top: 210px;
+            left: 50px;
+        }
+        .zero {
+            position: absolute;
+            top: 165px;
+            left: 80px;
+        }
+        .twohundred {
+            position: absolute;
+            top: 165px;
+            left: 280px;
+        }
+    
